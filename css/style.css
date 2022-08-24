@@ -1,0 +1,53 @@
+body{
+    background: #333333;
+    color: #fff;
+}
+.navbar{
+    border-bottom:3px solid #1073a5;
+    background: #292b2e;
+    opacity: o.7;
+}
+#home-section{
+    background: url("../img/family.webp") no-repeat center top;
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home-section .home-inner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#home-section .dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 700px;
+}
+
+#home-section .fa-check{
+    color: #008ed6;
+    background-color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#explore-main-section .fa-check{
+    color: #fff;
+    background-color: #333333;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#about-main-section .fa-check{
+    color: #008ed6;
+    background-color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#share-main-section .fa-check{
+    color: #fff;
+    background-color: #333333;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
